@@ -1,0 +1,15 @@
+.border-big {
+    color: black;
+    border: "1px solid black";
+    border-radius: "4px";
+    padding: "25px";
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.root {
+    display: inline-block;
+    gap: 10px;
+    text-align: "center";
+}

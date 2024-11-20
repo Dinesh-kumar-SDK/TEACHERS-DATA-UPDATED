@@ -1,0 +1,37 @@
+[
+    {
+        "name": "John Doe",
+        "id": 1,
+        "dept": "Mathematics",
+        "role": "Professor",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT48rAJY5JpN88ZExlg2Ine_QWUpVae63fkqw&s"
+    },
+    {
+        "name": "Sarah Smith",
+        "id": 2,
+        "dept": "Computer Science",
+        "role": "Assistant Professor",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb6cYohNNCN6Vh_Hu0Nu7ucfSg-wlwkeomrw&s"
+    },
+    {
+        "name": "Emily Davis",
+        "dept": "Physics",
+        "id": 3,
+        "role": "Lecturer",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Z7iC1OTli5r_Y7PORd67JbPjuttj36WOCg&s"
+    },
+    {
+        "name": "David Johnson",
+        "id": 4,
+        "dept": "Biology",
+        "role": "Professor",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-E3W2MNKBrH8360tF9_RjUcL5br8tBugZKg&s"
+    },
+    {
+        "name": "Linda Brown",
+        "id": 5,
+        "dept": "Chemistry",
+        "role": "Teaching Assistant",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpcNHOkFQKGvFdEwRhO8A2ycAWFaxR80fnw&s"
+    }
+]
